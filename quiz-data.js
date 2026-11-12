@@ -10,7 +10,7 @@ window.QUIZ = {
     {"correctIndex":2,"duration":10,"explanation":"這次出遊總共有 46 人參加（含家人）。","options":["38","42","46","50"],"text":"這次出遊總共幾個人（含家人）？","type":"question"},
     {"correctIndex":2,"duration":10,"explanation":"這次出遊女生大約佔了 7 成。","options":["5 成","6 成","7 成","8 成"],"text":"這次出遊女生大約佔幾成？","type":"question"},
     {"correctIndex":0,"duration":10,"explanation":"統計這次一起出遊的全體夥伴星座人數，處女座人數最多。","options":["處女座","獅子座","天蠍座","雙子座"],"text":"加入這次一起出遊的全體夥伴，最多人是哪個星座？","type":"question"},
-    {"subtitle":"回顧這次宜蘭員旅的點點滴滴，看誰記得最清楚","title":"第二關：本次行程有什麼","type":"announcement"},
+    {"subtitle":"準備出發囉！考考大家對這趟宜蘭員旅做了多少功課，看誰最清楚","title":"第二關：本次行程有什麼","type":"announcement"},
     {"correctIndex":3,"duration":10,"explanation":"這次旅遊主題是「一起蔥宜蘭，慢活 FUN 肆玩」，呼應宜蘭三星蔥的特產，諧音「衝宜蘭」。","options":["衝","聰","匆","蔥"],"text":"這次旅遊主題「一起＿宜蘭，慢活 FUN 肆玩」，空格是哪個字？","type":"question"},
     {"correctIndex":3,"duration":10,"explanation":"我們這次住的包棟民宿是「米蘭穀堡」。","options":["米蘭莊園","米蘭城堡","米蘭古堡","米蘭穀堡"],"text":"我們住的包棟民宿叫什麼？","type":"question"},
     {"correctIndex":1,"duration":10,"explanation":"第一天午餐的招牌菜是甕缸雞。","options":["鹽水雞","甕缸雞","燒酒雞","三杯雞"],"text":"第一天午餐的招牌菜是？","type":"question"},
