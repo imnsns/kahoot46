@@ -13,6 +13,8 @@ window.QUIZ = {
     {"subtitle":"準備出發囉！考考大家對這趟宜蘭員旅做了多少功課，看誰最清楚","title":"第二關：本次行程有什麼","type":"announcement"},
     {"correctIndex":3,"duration":10,"explanation":"這次旅遊主題是「一起蔥宜蘭，慢活 FUN 肆玩」，呼應宜蘭三星蔥的特產，諧音「衝宜蘭」。","options":["衝","聰","匆","蔥"],"text":"這次旅遊主題「一起＿宜蘭，慢活 FUN 肆玩」，空格是哪個字？","type":"question"},
     {"correctIndex":3,"duration":10,"explanation":"我們這次住的包棟民宿是「米蘭穀堡」。","options":["米蘭莊園","米蘭城堡","米蘭古堡","米蘭穀堡"],"text":"我們住的包棟民宿叫什麼？","type":"question"},
+    {"correctIndex":3,"duration":10,"explanation":"這次行程有到壯圍鄉（第一天午餐大嵌城甕缸雞）、五結鄉（包棟民宿米蘭穀堡）、三星鄉（蔥寶寶農場），沒有到大同鄉。","options":["壯圍鄉","五結鄉","三星鄉","大同鄉"],"text":"這次行程不會去到以下哪一個鄉鎮？","type":"question"},
+    {"correctIndex":1,"duration":10,"explanation":"這次我們在米蘭穀堡總共包了 4 棟＋2 間散房。","options":["4棟","4棟+2間散房","6棟","4棟+4間散房"],"text":"這次我們在米蘭穀堡總共包了幾棟？","type":"question"},
     {"correctIndex":1,"duration":10,"explanation":"第一天午餐的招牌菜是甕缸雞。","options":["鹽水雞","甕缸雞","燒酒雞","三杯雞"],"text":"第一天午餐的招牌菜是？","type":"question"},
     {"correctIndex":3,"duration":10,"explanation":"星夢森林劇場裡有水豚、羊駝、袋鼠，但沒有企鵝。","options":["水豚","羊駝","袋鼠","企鵝"],"text":"下午要去的星夢森林劇場裡，沒有下列哪種動物？","type":"question"},
     {"correctIndex":1,"duration":10,"explanation":"在蔥寶寶農場，大家 DIY 做的是蔥餅。","options":["蔥油麵","蔥餅","蔥爆牛肉","蔥花麵包"],"text":"第二天將去蔥寶寶農場做什麼 DIY 體驗？","type":"question"},
@@ -23,7 +25,9 @@ window.QUIZ = {
     {"correctIndex":0,"duration":10,"explanation":"三星蔥的「三星」指的是宜蘭縣三星鄉，當地位於蘭陽溪沖積扇，土壤肥沃、日夜溫差大，種出來的蔥特別香甜，因此以鄉名打響名號，成了宜蘭最具代表性的農特產之一。","options":["鄉鎮名","品牌名","星級評等","農夫名字"],"text":"三星蔥的「三星」是宜蘭的哪裡？","type":"question"},
     {"correctIndex":3,"duration":10,"explanation":"50嵐目前在宜蘭縣內沒有展店，玉圓堂、一藍茶坊、叮哥茶飲則都在宜蘭看得到。","options":["玉圓堂","一藍茶坊","叮哥茶飲","50嵐"],"text":"宜蘭縣內沒有下列哪間連鎖手搖飲品牌？","type":"question"},
     {"correctIndex":2,"duration":10,"explanation":"喜互惠是宜蘭在地經營超過30年的本土連鎖超市，只有在宜蘭看得到，是許多宜蘭人從小逛到大的超市品牌。","options":["好優惠","超互惠","喜互惠","大互惠"],"text":"請問只有在宜蘭，且在地深耕超過30年的本土連鎖超市是哪一間？","type":"question"},
+    {"correctIndex":1,"duration":10,"explanation":"歌仔戲發源於宜蘭（蘭陽地區），是台灣少數本土自創的傳統戲曲劇種，後來才傳到台灣各地甚至對岸，所以宜蘭有「歌仔戲的故鄉」之稱。","options":["布袋戲","歌仔戲","京劇","皮影戲"],"text":"請問下列哪一項民俗技藝是從宜蘭發源的？","type":"question"},
     {"correctIndex":1,"duration":10,"explanation":"在日治時期的台灣地圖上，龜山島的西南方海面上原本有一座名為「龜卵島」的小島群。因為有「龜卵」象徵，所以將龜山島視為正在產卵或產下後代的大母龜。","options":["公","母"],"text":"請問龜山島是公的還母的？","type":"question"},
+    {"correctIndex":1,"duration":10,"explanation":"這代表海上的水氣相當充足、大氣很不穩定，因此在地居民看到龜山島「戴帽」（山頂被雲層籠罩）時，通常預示著大雨即將來臨。","options":["颱風快來了","快下大雨","即將大晴天","太陽下山了"],"text":"龜山島「戴帽」（山頂被雲層籠罩）時，通常代表什麼？","type":"question"},
     {"correctIndex":0,"duration":10,"explanation":"宜蘭縣位於台灣東北部，西邊、南邊分別鄰接雪山山脈、中央山脈，東面直接臨太平洋，並不與台灣海峽相鄰——台灣海峽在台灣西側，隔開台灣與中國大陸，離宜蘭很遠。","options":["臺灣海峽","雪山山脈","中央山脈","太平洋"],"text":"請問下列哪一個不與宜蘭相鄰？","type":"question"}
   ]
 };
